@@ -1,4 +1,4 @@
-# Projeto - While, Loop For and def 🚀
+# Projeto - While, Loop For, def and Libraries 🚀
 
 Neste arquivo python mostra o que aprendemos na aula de Python, como descrito While, Loop For and def e seu uso em um código.
 
