@@ -1,6 +1,6 @@
 # Projeto - While, Loop For, def and Libraries 🚀
 
-Neste arquivo python mostra o que aprendemos na aula de Python, como descrito While, Loop For and def e seu uso em um código.
+Neste arquivo python mostra o que aprendemos na aula de Python, como descrito While, Loop For, def e Libraries, além do seu uso em um código por vias de exemplo.
 
 ### 🔌Como fazer funcionar na sua máquina:
 
